@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fe6c625c-9544-45fd-b8d3-bea4ea70d9c8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Arraylist_Python.py</StartupFile>
+    <StartupFile>list\Arraylist_Python.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Arraylist_Python.py" />
+    <Compile Include="list\Arraylist_Python.py" />
     <Compile Include="list\listNode.py" />
   </ItemGroup>
   <ItemGroup>
